@@ -5,7 +5,7 @@ local player = Players.LocalPlayer
 local tool = Instance.new("Tool")
 
 -- Set the tool's properties
-tool.Name = "20-20-20 dropkick"
+tool.Name = "20-20-20 Dropkick"
 tool.RequiresHandle = false  -- Set to true if you have a handle part
 tool.CanBeDropped = false     -- Change as needed
 
