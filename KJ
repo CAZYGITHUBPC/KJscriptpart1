@@ -88,6 +88,7 @@ end
 
 local function handleIconButtonClick()
     loadstring(game:HttpGet"https://raw.githubusercontent.com/CAZYGITHUBPC/KJscriptpart1/refs/heads/main/dropkick")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/CAZYGITHUBPC/KJscriptpart1/refs/heads/main/ravage%20and%20sweep")()
     local character = player.Character
     if not character then
         return
