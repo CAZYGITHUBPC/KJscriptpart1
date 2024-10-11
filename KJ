@@ -8,7 +8,7 @@ local dropdownContainer = unnamedIcon:WaitForChild("DropdownContainer")
 local dropdownFrame = dropdownContainer:WaitForChild("DropdownFrame")
 
 local charFrame = Instance.new("Frame")
-charFrame.Name = "Char"
+charFrame.Name = "KJ"
 charFrame.Parent = dropdownFrame
 charFrame.BackgroundTransparency = 1
 charFrame.BorderColor3 = Color3.fromRGB(27, 42, 53)
